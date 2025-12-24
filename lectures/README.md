@@ -1,7 +1,8 @@
 # ASTR 302, University of Washington: 
 # Python for Astronomy
+ 
+[Željko Ivezić](https://faculty.washington.edu/ivezic/index.html)
 
-[Mario Jurić](https://dirac.astro.washington.edu/person/mario-juric/)
 
 ## Lectures/notebooks 
 
