@@ -1,10 +1,15 @@
 #ASTR 302 downloading NASA asteroid data
-import sys; print(sys.executable)
+import sys
+print(sys.executable)
 import requests
 import datetime
 import json
 
-url = "https://ssd-api.jpl.nasa.gov/sentry.api"
+requests.get("GET https://ssd-api.jpl.nasa.gov/sentry.api
+
+")
+
+
 
 response = requests.get(url)
 
